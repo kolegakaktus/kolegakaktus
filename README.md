@@ -1,4 +1,4 @@
-## Welcome on My Profile
+## Welcome to My Profile
 ### I'm kolega_kaktus :)
 
 <!--
