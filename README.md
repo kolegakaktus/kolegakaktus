@@ -1,7 +1,4 @@
-## Welcome to My Profile
-### I'm kolega_kaktus :)
-
-New repositories soon
+<h1 align="center" style="text-decoration: none;">Hello, I'm kolega_kaktus</h1>
 
 <!--
 **kolegakaktus/kolegakaktus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
