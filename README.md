@@ -6,6 +6,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original-wordmark.svg" alt="java" width="975" height="40"/> 
   </a> 
 
+   <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg" alt="golang" width="1015" height="40"/> 
+  </a> 
+
 <!--
 **kolegakaktus/kolegakaktus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
