@@ -7,7 +7,7 @@
   </a> 
 
    <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="50"/> 
   </a> 
 
 <!--
