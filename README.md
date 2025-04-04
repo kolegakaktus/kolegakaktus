@@ -1,5 +1,11 @@
 <h1 align="center" style="text-decoration: none;">Hello, I'm kolega_kaktus</h1>
 
+<h3 align="center" style="text-decoration: none;">Languages:</h3>
+
+ <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  </a> 
+
 <!--
 **kolegakaktus/kolegakaktus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
