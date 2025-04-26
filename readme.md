@@ -1,7 +1,8 @@
-<h2 align="center">Hello, I'm kolega_kaktus</h2>
+<h2 align="center">👋 Hello, I'm kolega_kaktus</h2>
 
 ###
 
+<h4 align="center">My Languages and Tools</h4>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
