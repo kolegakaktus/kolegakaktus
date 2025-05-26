@@ -6,7 +6,7 @@
 
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,tailwind&theme=dark" alt="My Languages and tools"/>
 
-  <h4>I'm learning</h4>
+  <h4>I learning</h4>
 
   <img src="https://skillicons.dev/icons?i=nestjs,php,laravel&theme=dark" alt="My Languages and tools"/>
 </div>
