@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,tailwind&theme=dark" alt="My Languages and tools"/>
 </div>
 
-<h4 align="center">I learning</h4>
+<h4 align="center">I'm learning</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nestjs,php,laravel&theme=dark" alt="My Languages and tools"/>
