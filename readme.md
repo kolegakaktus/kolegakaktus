@@ -4,4 +4,4 @@
 
 <h4 align="center">My Languages and Tools</h4>
 
-[![My Languages and Tools](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,tailwind)](https://skillicons.dev)
+<img align="center" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,tailwind&theme=dark" alt="My Languages and tools"/>
