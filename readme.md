@@ -8,5 +8,5 @@
 
   <h4>I learning</h4>
 
-  <img src="https://skillicons.dev/icons?i=nestjs,vue,php,laravel&theme=dark" alt="My Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="My Languages and tools"/>
 </div>
