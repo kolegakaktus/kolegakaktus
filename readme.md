@@ -12,5 +12,5 @@
 
 
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolegakaktus&layout=donut" alt="Top Langs">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolegakaktus&layout=donut&theme=dark" alt="Top Langs">
 </div>
