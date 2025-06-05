@@ -4,9 +4,13 @@
 <div align="center">
   <h4>My Languages and Tools</h4>
 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,java,tailwind&theme=dark" alt="My Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,tailwind&theme=dark" alt="My Languages and tools"/>
 
   <h4>I learning</h4>
 
-  <img src="https://skillicons.dev/icons?i=django,adonis,php,laravel&theme=dark" alt="My Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=django,adonis,php,laravel&theme=dark" alt="My Languages and tools"/><br>
+
+
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolegakaktus&layout=donut" alt="Top Langs">
 </div>
