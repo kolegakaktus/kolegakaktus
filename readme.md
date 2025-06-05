@@ -4,9 +4,9 @@
 <div align="center">
   <h4>My Languages and Tools</h4>
 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,tailwind&theme=dark" alt="My Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,java,tailwind&theme=dark" alt="My Languages and tools"/>
 
   <h4>I learning</h4>
 
-  <img src="https://skillicons.dev/icons?i=django,php,laravel&theme=dark" alt="My Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=django,adonis,php,laravel&theme=dark" alt="My Languages and tools"/>
 </div>
