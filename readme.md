@@ -8,7 +8,7 @@
 
   <h4>I learning</h4>
 
-  <img src="https://skillicons.dev/icons?i=django,adonis,php,laravel&theme=dark" alt="My Languages and tools"/><br>
+  <img src="https://skillicons.dev/icons?i=django,php,laravel&theme=dark" alt="My Languages and tools"/><br>
 
 
   
