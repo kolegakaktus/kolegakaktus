@@ -11,5 +11,5 @@
   <img src="https://skillicons.dev/icons?i=django,php,laravel&theme=dark" alt="My Languages and tools"/><br>
 
 
-  <img align="left" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kolegakaktus&theme=dark&layout=compact&langs_count=6" alt="Top Langs">
+  <img align="center" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kolegakaktus&theme=dark&layout=compact&langs_count=6" alt="Top Langs">
 </div>
