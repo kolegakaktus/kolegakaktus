@@ -13,4 +13,5 @@
 
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolegakaktus&layout=donut&theme=dark" alt="Top Langs">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kolegakaktus&repo=CactusClans&layout=donut&theme=dark">
 </div>
