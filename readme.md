@@ -6,10 +6,5 @@
 
   <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,tailwind&theme=dark" alt="My Languages and tools"/>
 
-  <h4>I learning</h4>
-
-  <img src="https://skillicons.dev/icons?i=django,php,laravel&theme=dark" alt="My Languages and tools"/><br>
-
-
   <img align="center" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kolegakaktus&theme=dark&layout=compact&langs_count=6" alt="Top Langs">
 </div>
