@@ -6,11 +6,8 @@
 
   <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,tailwind&theme=dark" alt="My Languages and tools"/><n>
 </div>
-###
 
-<div>
+<div align="center">
   <h4>My projects</h4>
-  <ul>
-    <li>- SkyIslandia.pl (SOON)</li>
-  </ul>
+  <span>SkyIslandia.pl (SOON)</span>
 </div>
