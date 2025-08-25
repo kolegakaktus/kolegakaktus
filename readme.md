@@ -5,6 +5,12 @@
   <h4>My Languages and Tools</h4>
 
   <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,tailwind&theme=dark" alt="My Languages and tools"/><n>
+</div>
+###
 
-  <img align="center" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kolegakaktus&theme=dark&layout=compact&langs_count=6" alt="Top Langs">
+<div>
+  <h4>My projects</h4>
+  <ul>
+    <li>- SkyIslandia.pl (SOON)</li>
+  </ul>
 </div>
