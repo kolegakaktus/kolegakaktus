@@ -4,10 +4,8 @@
 <div align="center">
   <h4>My Languages and Tools</h4>
 
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,react,nextjs,java,tailwind&theme=dark" alt="My Languages and tools"/><n>
-</div>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,react,nextjs,java,tailwind&theme=dark" alt="My Languages and tools"/>
 
-<div align="center">
-  <h4>My projects</h4>
-  <span>SkyIslandia.pl (SOON)</span>
+  <h4>Learning</h4>
+  <img src="https://skillicons.dev/icons?i=php,symfony&theme=dark"/>
 </div>
