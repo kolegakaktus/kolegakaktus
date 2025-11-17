@@ -1,11 +1,5 @@
-<h2 align="center">👋 Hello, I'm kolega_kaktus</h2>
+<h2 align="start">◜👋 Hello, I'm kolega_kaktus</h2>
 
-###
-<div align="center">
-  <h4>My Languages and Tools</h4>
-
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,react,nextjs,java,tailwind&theme=dark" alt="My Languages and tools"/>
-
-  <h4>Learning</h4>
-  <img src="https://skillicons.dev/icons?i=php,symfony&theme=dark"/>
-</div>
+<p>☆I'm hobbyist programmer from Poland</p>
+<p>☆I have 2 years experience in coding</p>
+<p>☆My fav platform is Web (PHP❤️)</p>
