@@ -3,12 +3,6 @@
 <p>☆ I'm hobbyist programmer from Poland</p>
 <p>☆ My fav platform is Web & Minecraft</p>
 
-<h2 align="start">◜🏝️ Projects</h2>
-
-<div>
-  <p>☆ <a href="https://skyislandia.pl/">SkyIslandia.pl</a></p>
-</div>
-
 <h2 align="start">◜🖥️ Technologies ang Langs</h2>
 
 <div>
